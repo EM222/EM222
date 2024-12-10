@@ -1,6 +1,5 @@
 # 👋 Hi, I'm EMMANUEL!
-
-I'm a passionate FullStack Software Developer specializing in building web Applications. I love creating systems that solve real-world problems. With a background in both front-end and the back-end, I aim to contribute to impactful projects.
+I am a passionate FullStack Software Developer with expertise in building dynamic and user-friendly web applications. I specialize in both front-end and back-end development, creating efficient and scalable solutions that address real-world challenges. With a strong commitment to quality and innovation, I thrive in delivering impactful projects that make a difference.
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,java,php,mysql,postgres,sqlite,figma,netlify,vercel&theme=light)](https://skillicons.dev)
@@ -11,3 +10,7 @@ I'm a passionate FullStack Software Developer specializing in building web Appli
 
 ## 🌱 Currently Learning:
 - [Docker Conatinerization,Microsoft Bot Framework and Azure e.t.c]
+
+## 💬 Let's Connect:
+- [LinkedIn](www.linkedin.com/in/emmanuel-ronoh-a56111216)
+- [Portfolio]()

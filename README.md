@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm EMMANUEL!
 
 I'm a passionate FullStack Software Developer specializing in building web Applications. I love creating systems that solve real-world problems. With a background in both front-end and the back-end, I aim to contribute to impactful projects.
 

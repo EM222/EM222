@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @EM222
-- 👀 I’m a Full Stack Software Developer with experience in MERN Stack, Python(Django Framework), Containerization (Docker)
-- 🌱 
-- 💞️ I’m looking to collaborate on web and Mobile Application Developments
-- 📫 Reach me on: +254711209721 / @gmail: ronohemmanuel2@gmail.com
+# 👋 Hi, I'm [Your Name]!
 
-<!---
-EM222/EM222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate FullStack Software Developer specializing in building web Applications. I love creating systems that solve real-world problems. With a background in both front-end and the back-end, I aim to contribute to impactful projects.
+
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,java,php,mysql,postgres,sqlite,figma,netlify,vercel&theme=light)](https://skillicons.dev)
+
+## 📊 GitHub Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EM222&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌱 Currently Learning:
+- [Docker Conatinerization,Microsoft Bot Framework and Azure e.t.c]
